@@ -1,5 +1,5 @@
 # EDA_Projects
-# Automobile Exploratory Analysis Project
+# EDA Automobile Data Analysis Project
 For this project we will analyze the Automobile dataset. The dataset contains the following fields:
 
 * symboling: Represents the insurance risk rating of the car (-3 to +3).
