@@ -29,6 +29,7 @@
 * highway-mpg: The miles per gallon (MPG) in highway driving conditions.
 * price: The price of the car (target variable for analysis).
 
-### The charts below showcase some of the data visualizations created in this project:
+## The charts below showcase some of the data visualizations created in this project:
 ![Alt Text](https://github.com/TechExplorer-AK/Exploratory-Data-Analysis-Of-Automobile-Data/blob/main/Screenshot_1.png?raw=true)
+
 ![Alt Text](https://github.com/TechExplorer-AK/Exploratory-Data-Analysis-Of-Automobile-Data/blob/main/Screenshot_2.png?raw=true)
